@@ -1,4 +1,4 @@
-# Vaughn Ouano (⚆_⚆)
+# Vaughn Ouano 
 
 - Hi, I’m Vaughn Ouano, 16, front-end developer from Cebu, Philippines. 
 - Focusing on front-end engineering. 
