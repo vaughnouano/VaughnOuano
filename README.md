@@ -2,5 +2,5 @@
 
 - HTML
 - CSS
-- JavaScript(a bit)
+- JavaScript (eh)
 - Figma
