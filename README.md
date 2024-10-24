@@ -1,6 +1,3 @@
-### Skillset
-
-- HTML
-- CSS
-- JavaScript (eh)
-- Figma
+- HTML/CSS
+- JavaScript
+- C
