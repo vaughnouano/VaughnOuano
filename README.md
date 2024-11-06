@@ -1,3 +1,4 @@
-- HTML/CSS
-- JavaScript
-- C
+- **HTML/CSS**
+- **JavaScript**
+- **C**
+- **Figma**
