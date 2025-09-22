@@ -7,5 +7,5 @@
 
 </p>
 <p align="center" >
-<a href="https://vaughnouano.github.io/vaughnouano-web-portfolio/">Web-Portfolio</a>
+<a href="https://vaughnouano.github.io/vaughnouano-web-portfolio/" target="blank">Web-Portfolio</a>
 </p>
