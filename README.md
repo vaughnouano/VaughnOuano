@@ -1,6 +1,6 @@
 </br>
 <p align="center">
-<b>I love to create. Imagine. Solve. CSS...</b> </br> Anyways, here's what I use to make things happen: 
+<b>I love to create. Imagine. Solve. CSS...</b> </br> Here's what I use to make things happen: 
 </p>
 <br>
 <table align="center">
