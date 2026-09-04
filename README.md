@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,supabase,figma,javascript,css,html" />
   </a>
 </p>
-
+<br/>
 <div align="center">
-  <img src="https://ghstats.dev/api/langs?username=vaughnouano&hide_border=true&max_langs=6" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/langs?username=vaughnouano&hide_border=true&hide_title=true&custom_title=Github+Stats&max_langs=6" alt="Top Languages" />
 </div>
